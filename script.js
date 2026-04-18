@@ -4,7 +4,7 @@
 
 // EDITAR AQUÍ: Número de WhatsApp (sin + ni espacios)
 const WHATSAPP_CONFIG = {
-  number: '5491123456789', // Reemplazar con el número real
+  number: '543415853555', // Reemplazar con el número real
   countryCode: '+54'
 };
 
