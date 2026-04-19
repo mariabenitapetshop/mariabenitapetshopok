@@ -19,7 +19,7 @@ const products = [
     id: 2,
     name: 'Royal Canin Perros',
     description: 'Nutrición completa para perros adultos de razas pequeñas',
-    image: '02excellent.jpeg',
+    image: 'images/02excellent.jpeg',
     hasVariants: true,
     variants: [
       { size: '2 kg', price: 1800 },
@@ -30,8 +30,8 @@ const products = [
   {
     id: 3,
     name: 'Eukanuba Cachorro',
-    description: '03excellent.jpeg',
-    image: 'https://via.placeholder.com/250x250/C4956F/FFFFFF?text=Eukanuba',
+    description: '',
+    image: 'images/03excellent.jpeg',
     hasVariants: true,
     variants: [
       { size: '3 kg', price: 1500 },
@@ -42,7 +42,7 @@ const products = [
     id: 4,
     name: 'Excellent Gatos Senior',
     description: 'Alimento balanceado para gatos mayores de 7 años',
-    image: '02excellent.jpeg',
+    image: 'images/04excellent.jpeg',
     hasVariants: false,
     price: 950
   },
@@ -50,7 +50,7 @@ const products = [
     id: 5,
     name: 'Old Prince Perros',
     description: 'Nutrición premium con carne y vegetales naturales',
-    image: '05proplan.jpeg',
+    image: 'images/05proplan.jpeg',
     hasVariants: true,
     variants: [
       { size: '1 kg', price: 850 },
@@ -62,7 +62,7 @@ const products = [
     id: 6,
     name: 'Snacks Dental',
     description: 'Golosinas que ayudan a limpiar los dientes',
-    image: '06proplan.jpeg',
+    image: 'images/06proplan.jpeg',
     hasVariants: false,
     price: 450
   },
@@ -70,7 +70,7 @@ const products = [
     id: 7,
     name: 'Vitaminas Masticables',
     description: 'Suplemento vitamínico en forma de golosina',
-    image: '07felix.jpeg',
+    image: 'images/07felix.jpeg',
     hasVariants: false,
     price: 680
   },
@@ -78,7 +78,7 @@ const products = [
     id: 8,
     name: 'Comida Húmeda Gatos',
     description: 'Paté nutritivo en lata, sabor a salmón',
-    image: '08nic.jpeg',
+    image: 'images/08nic.jpeg',
     hasVariants: true,
     variants: [
       { size: '85g (1 lata)', price: 280 },
@@ -89,7 +89,7 @@ const products = [
     id: 9,
     name: 'Alimento Perros Sensibles',
     description: 'Fórmula especial para perros con digestión sensible',
-    image: '09generico.jpeg',
+    image: 'images/09generico.jpeg',
     hasVariants: true,
     variants: [
       { size: '3 kg', price: 1900 },
