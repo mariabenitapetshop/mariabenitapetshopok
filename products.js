@@ -66,11 +66,13 @@ const products = [
   },
   {
     id: 7,
-    name: 'Vitaminas Masticables',
-    description: 'Suplemento vitamínico en forma de golosina',
+    name: 'Felix x 15 sobres',
+    description: '',
     image: 'images/07felix.jpeg',
     hasVariants: false,
-    price: 680
+    price: 59063
+  },
+    ]
   },
   {
     id: 8,
