@@ -10,9 +10,9 @@ const products = [
     image: 'images/01excellent.jpeg',
     hasVariants: true,
     variants: [
-      { size: '3 kg', price: 1200 },
-      { size: '7,5 kg', price: 4500 },
-      { size: '15 kg', price: 10000 }
+      { size: '3 kg', price: 29223 },
+      { size: '7,5 kg', price: 62947 },
+      { size: '15 kg', price: 121445 }
     ]
   },
   {
