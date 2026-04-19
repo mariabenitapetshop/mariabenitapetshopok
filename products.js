@@ -25,42 +25,44 @@ const products = [
   },
   {
     id: 3,
-    name: 'Eukanuba Cachorro',
+    name: 'Excellent perro mordida pequena',
     description: '',
     image: 'images/03excellent.jpeg',
     hasVariants: true,
     variants: [
-      { size: '3 kg', price: 1500 },
-      { size: '12 kg', price: 5000 }
+      { size: '3 kg', price: 18594 },
+      { size: '15 kg', price: 72936 }
     ]
   },
   {
     id: 4,
-    name: 'Excellent Gatos Senior',
-    description: 'Alimento balanceado para gatos mayores de 7 años',
+    name: 'Excellent perro mantenimiento',
+    description: '',
     image: 'images/04excellent.jpeg',
     hasVariants: false,
-    price: 950
+    price: 59063
   },
   {
     id: 5,
-    name: 'Old Prince Perros',
-    description: 'Nutrición premium con carne y vegetales naturales',
+    name: 'Pro Plan perro adulto mordida pequena',
+    description: '',
     image: 'images/05proplan.jpeg',
     hasVariants: true,
     variants: [
-      { size: '1 kg', price: 850 },
-      { size: '3 kg', price: 2200 },
-      { size: '10 kg', price: 6500 }
+      { size: '3 kg', price: 36439 },
+      { size: '7,5 kg', price: 73992 }
     ]
   },
   {
     id: 6,
-    name: 'Snacks Dental',
-    description: 'Golosinas que ayudan a limpiar los dientes',
+    name: 'Pro Plan perro adulto mordida grande',
+    description: '',
     image: 'images/06proplan.jpeg',
-    hasVariants: false,
-    price: 450
+    hasVariants: true,
+    variants: [
+      { size: '3 kg', price: 34833 },
+      { size: '15 kg', price: 110558 }
+    ]
   },
   {
     id: 7,
