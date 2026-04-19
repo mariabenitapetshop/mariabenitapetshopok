@@ -41,8 +41,10 @@ const products = [
     name: 'Excellent perro mantenimiento',
     description: '',
     image: 'images/04excellent.jpeg',
-    hasVariants: false,
-    price: 59063
+    hasVariants: true,
+    variants: [
+       { size: '15 kg', price: 59063 }
+    ]
   },
   {
     id: 5,
@@ -69,10 +71,12 @@ const products = [
   {
     id: 7,
     name: 'Felix x 15 sobres',
-    description: '',
+    description: 'sabor atún salmón pollo',
     image: 'images/07felix.jpeg',
-    hasVariants: false,
-    price: 22800
+    hasVariants: true,
+    variants: [
+      { size: 'Pack x 10', price: 17273 }
+    ]
   },
   {
     id: 8,
