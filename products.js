@@ -90,15 +90,7 @@ const products = [
     image: 'images/09generico.jpeg',
     hasVariants: true,
     variants: [
-      { size: '5 kg', price: 1900 }
+      { size: '5 kg', price: 5692 }
     ]
   },
-  {
-    id: 10,
-    name: 'Juguete Interactivo',
-    description: 'Juguete de goma resistente con sonido',
-    image: 'https://via.placeholder.com/250x250/D0B8A0/FFFFFF?text=Juguete',
-    hasVariants: false,
-    price: 350
-  }
 ];
