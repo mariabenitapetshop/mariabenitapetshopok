@@ -7,12 +7,12 @@ const products = [
     id: 1,
     name: 'Pro Plan Gatos',
     description: 'Alimento premium para gatos adultos con sabor a pollo',
-    image: 'https://via.placeholder.com/250x250/D4A574/FFFFFF?text=Pro+Plan+Gatos',
+    image: 'images/01excellent.jpeg',
     hasVariants: true,
     variants: [
       { size: '1 kg', price: 1200 },
       { size: '5 kg', price: 4500 },
-      { size: '10 kg', price: 8200 }
+      { size: '10 kg', price: 10000 }
     ]
   },
   {
