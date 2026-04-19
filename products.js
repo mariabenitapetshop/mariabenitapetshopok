@@ -5,14 +5,14 @@ const WHATSAPP_NUMBER = '5491123456789'; // Editar con el número real
 const products = [
   {
     id: 1,
-    name: 'Pro Plan Gatos',
-    description: 'Alimento premium para gatos adultos con sabor a pollo',
+    name: 'Excellent gato adulto',
+    description: '',
     image: 'images/01excellent.jpeg',
     hasVariants: true,
     variants: [
-      { size: '1 kg', price: 1200 },
-      { size: '5 kg', price: 4500 },
-      { size: '10 kg', price: 10000 }
+      { size: '3 kg', price: 1200 },
+      { size: '7,5 kg', price: 4500 },
+      { size: '15 kg', price: 10000 }
     ]
   },
   {
