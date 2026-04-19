@@ -17,15 +17,11 @@ const products = [
   },
   {
     id: 2,
-    name: 'Royal Canin Perros',
-    description: 'Nutrición completa para perros adultos de razas pequeñas',
+    name: 'Excellent gato mantenimiento',
+    description: '',
     image: 'images/02excellent.jpeg',
-    hasVariants: true,
-    variants: [
-      { size: '2 kg', price: 1800 },
-      { size: '7.5 kg', price: 5200 },
-      { size: '15 kg', price: 9500 }
-    ]
+    hasVariants: false,
+    price: 5200
   },
   {
     id: 3,
