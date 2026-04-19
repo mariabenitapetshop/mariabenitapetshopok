@@ -70,9 +70,7 @@ const products = [
     description: '',
     image: 'images/07felix.jpeg',
     hasVariants: false,
-    price: 59063
-  },
-    ]
+    price: 22800
   },
   {
     id: 8,
