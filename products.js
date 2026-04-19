@@ -20,8 +20,10 @@ const products = [
     name: 'Excellent gato mantenimiento',
     description: '',
     image: 'images/02excellent.jpeg',
-    hasVariants: false,
-    price: 5200
+    hasVariants: true,
+    variants: [
+     { size: '15 kg', price: 89378 }
+    ]
   },
   {
     id: 3,
