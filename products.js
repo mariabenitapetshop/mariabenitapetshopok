@@ -74,24 +74,23 @@ const products = [
   },
   {
     id: 8,
-    name: 'Comida Húmeda Gatos',
-    description: 'Paté nutritivo en lata, sabor a salmón',
+    name: 'Piedras sanitarias Nic',
+    description: '',
     image: 'images/08nic.jpeg',
     hasVariants: true,
     variants: [
-      { size: '85g (1 lata)', price: 280 },
-      { size: '85g (6 latas)', price: 1500 }
+      { size: '2 kg', price: 2711 },
+      { size: '4 kg', price: 4906 }
     ]
   },
   {
     id: 9,
-    name: 'Alimento Perros Sensibles',
-    description: 'Fórmula especial para perros con digestión sensible',
+    name: 'Pellet',
+    description: '',
     image: 'images/09generico.jpeg',
     hasVariants: true,
     variants: [
-      { size: '3 kg', price: 1900 },
-      { size: '10 kg', price: 5800 }
+      { size: '5 kg', price: 1900 }
     ]
   },
   {
