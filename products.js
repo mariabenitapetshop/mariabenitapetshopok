@@ -75,7 +75,7 @@ const products = [
     image: 'images/07felix.jpeg',
     hasVariants: true,
     variants: [
-      { size: 'Pack x 10', price: 17273 }
+      { size: 'Pack x 15', price: 17273 }
     ]
   },
   {
