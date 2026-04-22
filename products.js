@@ -10,9 +10,9 @@ const products = [
     image: 'images/01excellent.jpeg',
     hasVariants: true,
     variants: [
-      { size: '3 kg', price: 1000 },
-      { size: '7,5 kg', price: 20000 },
-      { size: '15 kg', price: 121445 }
+      { size: '3 kg', price: 26775 },
+      { size: '7,5 kg', price: 57705 },
+      { size: '15 kg', price: 111355 }
     ]
   },
   {
@@ -22,7 +22,7 @@ const products = [
     image: 'images/02excellent.jpeg',
     hasVariants: true,
     variants: [
-     { size: '15 kg', price: 89378 }
+     { size: '15 kg', price: 77310 }
     ]
   },
   {
@@ -32,8 +32,8 @@ const products = [
     image: 'images/03excellent.jpeg',
     hasVariants: true,
     variants: [
-      { size: '3 kg', price: 18594 },
-      { size: '15 kg', price: 72936 }
+      { size: '3 kg', price: 17049 },
+      { size: '15 kg', price: 66783 }
     ]
   },
   {
@@ -43,7 +43,7 @@ const products = [
     image: 'images/04excellent.jpeg',
     hasVariants: true,
     variants: [
-       { size: '15 kg', price: 59063 }
+       { size: '15 kg', price: 58145 }
     ]
   },
   {
@@ -53,8 +53,8 @@ const products = [
     image: 'images/05proplan.jpeg',
     hasVariants: true,
     variants: [
-      { size: '3 kg', price: 36439 },
-      { size: '7,5 kg', price: 73992 }
+      { size: '3 kg', price: 30986 },
+      { size: '7,5 kg', price: 67829 }
     ]
   },
   {
@@ -64,8 +64,8 @@ const products = [
     image: 'images/06proplan.jpeg',
     hasVariants: true,
     variants: [
-      { size: '3 kg', price: 34833 },
-      { size: '15 kg', price: 110558 }
+      { size: '3 kg', price: 30986 },
+      { size: '15 kg', price: 107190 }
     ]
   },
   {
@@ -75,7 +75,7 @@ const products = [
     image: 'images/07felix.jpeg',
     hasVariants: true,
     variants: [
-      { size: 'Pack x 15', price: 17273 }
+      { size: 'Pack x 15', price: 14985 }
     ]
   },
   {
@@ -85,8 +85,8 @@ const products = [
     image: 'images/08nic.jpeg',
     hasVariants: true,
     variants: [
-      { size: '2 kg', price: 2711 },
-      { size: '4 kg', price: 4906 }
+      { size: '2 kg', price: 1900 },
+      { size: '4 kg', price: 3400 }
     ]
   },
   {
@@ -96,7 +96,7 @@ const products = [
     image: 'images/09generico.jpeg',
     hasVariants: true,
     variants: [
-      { size: '5 kg', price: 5692 }
+      { size: '5 kg', price: 4300 }
     ]
   },
 ];
