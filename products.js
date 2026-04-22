@@ -22,7 +22,7 @@ const products = [
     image: 'images/02excellent.jpeg',
     hasVariants: true,
     variants: [
-     { size: '15 kg', price: 77310 }
+     { size: '15 kg', price: 81954 }
     ]
   },
   {
@@ -53,7 +53,7 @@ const products = [
     image: 'images/05proplan.jpeg',
     hasVariants: true,
     variants: [
-      { size: '3 kg', price: 30986 },
+      { size: '3 kg', price: 32442 },
       { size: '7,5 kg', price: 67829 }
     ]
   },
@@ -75,7 +75,7 @@ const products = [
     image: 'images/07felix.jpeg',
     hasVariants: true,
     variants: [
-      { size: 'Pack x 15', price: 14985 }
+      { size: 'Pack x 15', price: 15209 }
     ]
   },
   {
