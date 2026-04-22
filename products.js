@@ -27,7 +27,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Excellent perro mordida pequena',
+    name: 'Excellent perro mordida pequeña',
     description: '',
     image: 'images/03excellent.jpeg',
     hasVariants: true,
