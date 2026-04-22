@@ -48,7 +48,7 @@ const products = [
   },
   {
     id: 5,
-    name: 'Pro Plan perro adulto mordida pequena',
+    name: 'Pro Plan perro adulto mordida pequeña',
     description: '',
     image: 'images/05proplan.jpeg',
     hasVariants: true,
