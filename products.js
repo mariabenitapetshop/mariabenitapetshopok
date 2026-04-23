@@ -43,7 +43,7 @@ const products = [
     image: 'images/04excellent.jpeg',
     hasVariants: true,
     variants: [
-       { size: '15 kg', price: 58145 }
+       { size: '20 kg', price: 58145 }
     ]
   },
   {
@@ -59,7 +59,7 @@ const products = [
   },
   {
     id: 6,
-    name: 'Pro Plan perro adulto mordida grande',
+    name: 'Pro Plan perro adulto mordida mediana',
     description: '',
     image: 'images/06proplan.jpeg',
     hasVariants: true,
